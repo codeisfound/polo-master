@@ -76,7 +76,7 @@ a {
 a:focus, 
 a:hover {
     text-decoration: none;
-    color: #00ceb8;
+    color: #cca772;
 }
 
 .img_res{
@@ -311,8 +311,8 @@ a:hover {
     padding-top: 15px;
 }
 .store-btn:hover,#menu-toggle:hover {
-    background: #00ceb8;
-    border-color: #00ceb8;
+    background: #cca772;
+    border-color: #cca772;
     color: #fff;
 }
 
@@ -350,8 +350,8 @@ a:hover {
     padding: 20px 30px 0px 30px;
 }
 .store:hover{
-    background: #00ceb8;
-    border-color: #00ceb8;
+    background: #cca772;
+    border-color: #cca772;
     color: #fff; 
 }
 .polo-btn i {
@@ -680,7 +680,7 @@ p.client-name {
     font-size: 18px;
 }
 #contactForm input:active,#contactForm textarea:active,#contactForm input:hover,#contactForm textarea:hover {
-    border: 2px solid #00ceb8;
+    border: 2px solid #cca772;
 }
 
 #contactForm #name, #contactForm #email, #contactForm #phone {
@@ -699,15 +699,15 @@ p.client-name {
     margin-top: -38px;
     width: 160px;
     background: #fff;
-    color: #00ceb8;
-    border: 2px solid #00ceb8;
+    color: #cca772;
+    border: 2px solid #cca772;
     font-size: 46px;
     padding: 0;
     margin: 0 auto;
     margin-top: -46px;
 }
 .contact-submit:hover {
-    background: #00ceb8;
+    background: #cca772;
     color: #fff;
 }
 #contact {
@@ -749,7 +749,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 }
 
 .footer-logo a:hover {
-    color: #00ceb8;
+    color: #cca772;
 }
 
 .footer-logo a {
