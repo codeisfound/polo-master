@@ -426,18 +426,18 @@ a:hover {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .gallery-nav {
-    color: #6ecba9;
+    color: #cca772;
     font-size: 2em;
     margin: 0 1em;
     padding: 10px 19px;
     line-height: 0;
-    border: 1px solid #6ecba9;
+    border: 1px solid #cca772;
     border-radius: 50%;
 }
 
 .gallery-nav:hover,.gallery-nav:focus,.gallery-nav:active {
     color: #fff;
-    background:#6ecba9;
+    background:#cca772;
 }
 
 
@@ -726,10 +726,10 @@ p.client-name {
 }
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-  color: #6ecba9;
+  color: #cca772;
 }
 input:-moz-placeholder, textarea:-moz-placeholder {
-  color: #6ecba9;
+  color: #cca772;
 }
 
 
